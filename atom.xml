@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lumns.github.io</id>
     <title>Lumn&apos;s Blog</title>
-    <updated>2020-09-07T07:07:13.879Z</updated>
+    <updated>2020-09-07T07:51:36.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lumns.github.io"/>
     <link rel="self" href="https://lumns.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://lumns.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lumn&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[hello]]></title>
+        <title type="html"><![CDATA[mardel]]></title>
         <id>https://lumns.github.io/post/hello/</id>
         <link href="https://lumns.github.io/post/hello/">
         </link>
